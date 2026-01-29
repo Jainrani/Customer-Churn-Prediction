@@ -3,10 +3,10 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "private_outputs": true,
+      "private_outputs": True,
       "provenance": [],
       "authorship_tag": "ABX9TyNAgKMlMM/Z4Y2wHV5R28sk",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -35,7 +35,7 @@
       "metadata": {
         "id": "LlQFMT7kPmLK"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -46,7 +46,7 @@
       "metadata": {
         "id": "tycuhPecPrYm"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -59,7 +59,7 @@
       "metadata": {
         "id": "YHYSuZ4DPylu"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -72,7 +72,7 @@
       "metadata": {
         "id": "DurVSpPuP4mv"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -84,12 +84,12 @@
       "metadata": {
         "id": "EewC9_qQP-sn"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": None,
       "metadata": {
         "id": "atIMJjK2PD4J"
       },
@@ -208,7 +208,7 @@
       "source": [
         "pip install streamlit pandas numpy"
       ],
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -222,7 +222,7 @@
         "import numpy as np\n",
         "import pickle"
       ],
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
@@ -369,7 +369,7 @@
         "    st.write(f\"**Prediction:** {result}\")\n",
         "    st.write(f\"**Churn Probability:** {probability*100:.2f}%\")"
       ],
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     },
     {
